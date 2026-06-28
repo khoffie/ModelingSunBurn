@@ -22,9 +22,9 @@ Let us discuss these steps in more detail:
    walls, a certain percentage of $U$ reaches you, if you spend time
    outdoors.
    
-   $$
-   A(t_1, t_2) = \int_{t_1}^{t_2} u(m, x)[c(x)s(x) + r(x)]\ dx = \int_{t_1}^{t_2} a(x) dx
-   $$
+$$
+A(t_1, t_2) = \int_{t_1}^{t_2} u(m, x)[c(x)s(x) + r(x)]\ dx = \int_{t_1}^{t_2} a(x) dx
+$$
    
    where $c(t)$ denotes the fraction of UV radiation that gets through
    the cloud cover at time $t$. The fraction equals one if there are
@@ -45,9 +45,9 @@ Let us discuss these steps in more detail:
    sublight gets through. We can calculate the fraction that get's
    through the sun block as
    
-   $$
-       b(t) = 100 / (SPF(t) \times g(t))
-   $$
+$$
+b(t) = 100 / (SPF(t) \times g(t))
+$$
    
    where $g(t)$ denotes the difference of the grease you should have
    to get the desired $SPF$ and the amount you actually have. For
