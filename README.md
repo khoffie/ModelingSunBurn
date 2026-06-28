@@ -29,8 +29,8 @@ Let us discuss these steps in more detail:
    
    where $c(t)$ denotes the fraction of UV radiation that gets through
    the cloud cover at time $t$. The fraction equals one if there are
-   no clouds. $s(t) \in \{0, 1\} denotes wheather you are in shade
-   $s(t) = $ or not $s(t) = 0$. The amount of UV radiation that
+   no clouds. $s(t) \in \{0, 1\}$ denotes wheather you are in shade
+   $s(t) = 1$ or not $s(t) = 0$. The amount of UV radiation that
    reaches you can be increased, if water or sand reflect sunlight.
    For example if you are at the beach, there is no shade and no
    clouds, assuming $r(x) = 1 / 4$, the fraction of $U$ reaching you
