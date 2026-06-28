@@ -23,8 +23,7 @@ Let us discuss these steps in more detail:
    outdoors.
    
    $$
-   A(t_1, t_2) = \int_{t_1}^{t_2} u(m, x)[c(x)s(x) + r(x)]\ dx = 
-   \int_{t_1}^{t_2} a(x)\ dx 
+   A(t_1, t_2) = \int_{t_1}^{t_2} u(m, x)[c(x)s(x) + r(x)]\ dx = \int_{t_1}^{t_2} a(x)\, dx
    $$
    
    where $c(t)$ denotes the fraction of UV radiation that gets through
